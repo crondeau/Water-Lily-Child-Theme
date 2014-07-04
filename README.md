@@ -1,4 +1,4 @@
 Water-Lily-Child-Theme
 ======================
 
-Child Theme of Water Lily theme for WordPress. 
+Use this as the starter theme for your very own water lily child theme.
