@@ -1,0 +1,36 @@
+/*
+Theme Name: Water Lily Child
+Description: Child Theme of Water Lily
+Author: Insert your name here
+Template: water-lily
+Version: 1.0
+
+*/
+
+@import url("../water-lily/style.css");
+
+/* 
+ * To make changes you need to find the CSS you want to modify from the parent theme
+ * copy it from the parent into this file
+ * make your changes and save them. 
+ * Once the child theme is installed and activated the theme will read the CSS of the parent
+ * and then read your changes. 
+ * Below is an example of how you would change the link colour.
+ * 
+ * You can also make changes to template files
+ * Copy the PHP template from the parent and make the changes to the PHP template in your child theme.
+ * 
+ * More info: http://codex.wordpress.org/Child_Themes
+ * 
+ */
+
+a {
+	color: #000;
+}
+a:hover,
+a:focus,
+a:active {
+	color: #068684;
+}
+
+
